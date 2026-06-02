@@ -18,9 +18,17 @@ I enjoy building useful tools, exploring AI workflows, and turning ideas into th
 
 <div align="center">
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=ztandcos&bg_color=ffffff&color=374151&line=0ea5e9&point=f59e0b&area=true&hide_border=true&radius=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ztandcos&bg_color=0d1117&color=c9d1d9&line=22c55e&point=f59e0b&area=true&hide_border=true&radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ztandcos&bg_color=ffffff&color=374151&line=0ea5e9&point=f59e0b&area=true&hide_border=true&radius=8" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ztandcos&bg_color=ffffff&color=374151&line=0ea5e9&point=f59e0b&area=true&hide_border=true&radius=8" />
+</picture>
 
-![Contribution snake](https://raw.githubusercontent.com/ztandcos/ztandcos/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ztandcos/ztandcos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ztandcos/ztandcos/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ztandcos/ztandcos/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
