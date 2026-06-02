@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ztandcos?style=for-the-badge&logo=github&label=Followers&color=0ea5e9)](https://github.com/ztandcos)
 [![Profile views](https://komarev.com/ghpvc/?username=ztandcos&style=for-the-badge&color=22c55e)](https://github.com/ztandcos)
-[![Email](https://img.shields.io/badge/Email-Contact-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaa@163.com)
+[![Email](https://img.shields.io/badge/Email-Contact-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ztao2587@gmail.com)
 
 </div>
 
@@ -17,7 +17,7 @@ I build practical software, learn in public, and enjoy turning fuzzy ideas into 
 - Currently working on: **useful tools and developer workflows**
 - Learning: **AI, automation, and full-stack development**
 - Interested in: **AI, product design, web apps, and efficient systems**
-- Reach me: **aaa@163.com**
+- Reach me: **ztao2587@gmail.com**
 
 ## Tech Stack
 
@@ -81,7 +81,7 @@ AI workflows       ████████░░░  75%
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/ztandcos)
-[![Email](https://img.shields.io/badge/Email-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaa@163.com)
+[![Email](https://img.shields.io/badge/Email-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ztao2587@gmail.com)
 
 </div>
 
