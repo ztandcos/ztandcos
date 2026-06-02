@@ -67,14 +67,15 @@ I build practical software, learn in public, and enjoy turning fuzzy ideas into 
 
 </div>
 
-## Recent Focus
+## Contribution Graph
 
-```text
-Product thinking   █████████░░  80%
-Frontend polish    ████████░░░  72%
-Backend systems    ███████░░░░  68%
-AI workflows       ████████░░░  75%
-```
+<div align="center">
+
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=ztandcos&bg_color=ffffff&color=374151&line=0ea5e9&point=f59e0b&area=true&hide_border=true&radius=8)
+
+![Contribution snake](https://raw.githubusercontent.com/ztandcos/ztandcos/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ## Connect
 
